@@ -17,7 +17,7 @@ Figmaskiss: https://www.figma.com/file/m50rp2hEhZfOVHKQWKWf0Y/Where-its-%40---Re
 
 ## Inlämning
 
-Inlämning är på Github i det repo som skapades via Github Classroom senast **22 feb 2021 23:59**.
+Inlämning är på Github i det repo som skapades via Github Classroom senast **24 feb 2021 10:00**.
 
 
 
