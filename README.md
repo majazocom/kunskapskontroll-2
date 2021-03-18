@@ -1,4 +1,4 @@
-# Inlämningsuppgift 4
+# Inlämningsuppgift 2
 
 Du ska i denna inlämningsuppgift göra en biljettsida där du kan "köpa" biljetter till ett evenemang. Du ska implementera enligt nedanstående skiss.
 
@@ -17,8 +17,7 @@ Figmaskiss: https://www.figma.com/file/m50rp2hEhZfOVHKQWKWf0Y/Where-its-%40---Re
 
 ## Inlämning
 
-Inlämning är på Github i det repo som skapades via Github Classroom. Ta länken till ditt repo och
-lägg till som en kommentar på Ping Pong och lämna in uppgiften där senast **22 feb 2021 23:59**.
+Inlämning är på Github i det repo som skapades via Github Classroom senast **22 feb 2021 23:59**.
 
 
 
